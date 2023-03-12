@@ -1,0 +1,40 @@
+<html>
+
+<head>
+
+   <title> curriculo escolar </title>
+
+</head>
+
+<body>
+ <font color="green" size="16"><b><i>Curriculo</i></b></font><br>
+
+   <hr>
+
+<font size="5">nome:</font> <b>Arthur Fernandes Bezerra</b><br><br>
+
+<font size="5">data de nascimento:</font><b>27/07/2007</b><br><br>
+
+<font size="5">E-mail:</font><b>fernandesarthur264@gmail.com</b><br><br>
+
+<font size="5">Prontuário:</font><b>CB3024229</b><br><br>
+
+<font size="5">Escolas cursadas:</font>
+<ul>
+ <li><b>UME Usina Henry Borden do 5 ao 9 ano</b></li>
+<li><b> UME antônio ortega domingues-1 ano a 4 ano</b></li><br>
+
+<font color="green" size="14"><b><i>Hobbies:</i></b></font><br>
+
+<font size="5"><b><li>jogar</li>
+<li>dormir</li>
+<li>mexer no celular</li>
+<li>estudar</li>
+<li>comer</li>
+<li>assistir filmes</li></b></font>
+
+</body>
+
+
+
+</html>
